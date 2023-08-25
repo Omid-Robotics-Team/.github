@@ -1,2 +1,1 @@
-# .github
-Redme
+### Omid Robotics Team (ORT) began its activity in 2007. Since then, ORT has participated in competitions as a branch of the robotics society of the Department of Electrical and Computer Engineering of Shahed University located in Tehran, Islamic Republic of Iran.
